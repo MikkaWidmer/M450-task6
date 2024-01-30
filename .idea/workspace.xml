@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cff180e-6b43-48bc-b07a-c218cd20decf" name="Changes" comment="" />
+    <list default="true" id="6cff180e-6b43-48bc-b07a-c218cd20decf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ch/tbz/recipe/planner/entities/RecipeEntityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ch/tbz/recipe/planner/entities/RecipeEntityTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +96,8 @@
       <updated>1705997591267</updated>
       <workItem from="1705997593160" duration="3254000" />
       <workItem from="1706004988083" duration="113000" />
-      <workItem from="1706005335604" duration="610000" />
+      <workItem from="1706005335604" duration="1196000" />
+      <workItem from="1706598701573" duration="160000" />
     </task>
     <servers />
   </component>

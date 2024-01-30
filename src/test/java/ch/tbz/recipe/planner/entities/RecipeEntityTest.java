@@ -21,7 +21,7 @@ class RecipeEntityTest {
         assertNull(recipeEntity.getName()); // Assuming name is initially null
     }
 
-    // Similarly, create tests for getDescription, getImageUrl, getIngredients, etc.
+    // Similarly, create tests for getDescription, getImageUrl, getIngredients, etc
 
     @Test
     void testSetId() {
